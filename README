@@ -1,0 +1,11 @@
+https://realpython.com/tic-tac-toe-ai-python/#step-1-model-the-tic-tac-toe-game-domain
+
+pushing local repo onto github
+- check if local repo has ssh keys
+- if no, create
+- else, add to ssh agent 
+- then add to github ssh keys in settings
+
+derived enum of mixed type > const
+- can’t compare a member of a Python enum against its value
+- py3.11 onwards, enum.StrEnum 
